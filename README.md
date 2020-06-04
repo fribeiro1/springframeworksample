@@ -8,4 +8,4 @@ This project contains versions of a sample Spring Framework application for mult
 * [Heroku](https://github.com/fribeiro1/springframeworksample/tree/master/springframeworksample-heroku)
 * [Jelastic](https://github.com/fribeiro1/springframeworksample/tree/master/springframeworksample-jelastic)
 * [OpenShift](https://github.com/fribeiro1/springframeworksample/tree/master/springframeworksample-openshift)
-* [Windows Azure](https://github.com/fribeiro1/springframeworksample/tree/master/springframeworksample-windowsazure)
+* [Azure](https://github.com/fribeiro1/springframeworksample/tree/master/springframeworksample-azure)
