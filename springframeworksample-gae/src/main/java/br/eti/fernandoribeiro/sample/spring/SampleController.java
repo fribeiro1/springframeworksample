@@ -19,12 +19,12 @@ import org.springframework.web.servlet.View;
 import org.springframework.web.servlet.view.InternalResourceView;
 
 @Controller
-public final class SampleController {
+public class SampleController {
 
 	@RequestMapping("/sendMessage")
 	public ModelAndView sendMessage(
-			@RequestParam("message") final String message) {
-		final ModelAndView modelAndView = new ModelAndView(
+			@RequestParam("message") String message) {
+		ModelAndView modelAndView = new ModelAndView(
 				"/WEB-INF/jsp/confirmation.jsp");
 
 		modelAndView.addObject("message", message);
