@@ -20,7 +20,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 		<dependency>
 			<groupId>org.apache.tomcat</groupId>
 			<artifactId>tomcat-jasper</artifactId>
-			<version>7.0.30</version>
+			<version>7.0.72</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.tomcat</groupId>
