@@ -21,7 +21,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>5.3.18</version>
+			<version>6.1.13</version>
 		</dependency>
 	</dependencies>
 	<build>
